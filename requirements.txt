@@ -1,0 +1,2 @@
+python-dotenv==1.2.4
+certifi>=2024.7.4
